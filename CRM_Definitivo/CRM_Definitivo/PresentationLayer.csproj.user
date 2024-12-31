@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CRM_Definitivo\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\Admin\AssignamentTaskEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\InfoProjects.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\PermissionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\SendProjectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ChangePasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ChangePasswordProfileForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Clients\AnswerProjectClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Clients\RequestClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Clients\HomeUserClientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Employees\HomeUserEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\RecordProjectsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ImageViewerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProfileUserAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Employees\ProjectEmployeeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\VerificationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NewAccountForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\AddUsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\ProjectsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Admin\UsersForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

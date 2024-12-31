@@ -1,0 +1,12 @@
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\bin\Release\net8.0\CommonLayer.deps.json
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\bin\Release\net8.0\CommonLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\bin\Release\net8.0\CommonLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\CommonLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\CommonLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\CommonLayer.AssemblyInfo.cs
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\CommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\CommonLayer.sourcelink.json
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\CommonLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\refint\CommonLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\CommonLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\CommonLayer\obj\Release\net8.0\ref\CommonLayer.dll

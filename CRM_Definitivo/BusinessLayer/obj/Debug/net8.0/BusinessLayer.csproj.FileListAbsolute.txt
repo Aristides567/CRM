@@ -1,0 +1,286 @@
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\source\repos\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto-POE-main\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\aahh\proyecto poe par 3\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\kenne\OneDrive\Documentos\proyect poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\aleja\Source\Repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\Melissa\source\repos\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\poe proyecto nuevo\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\jeffe\OneDrive\Documentos\ING SOFTWARE\CICLO 4\POE\proyecto-POE - copia\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\blanc_ma7kouo\Desktop\PutakUnivo\proogra\proyecto poe\gafsvdx\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\Estudio de Mercado_files\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.deps.json
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.dll
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\bin\Debug\net8.0\CommonLayer.pdb
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\Business.EA331CBA.Up2Date
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.dll
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\refint\BusinessLayer.dll
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\BusinessLayer.pdb
+C:\Users\fuent\Downloads\CRM\CRM_Definitivo\BusinessLayer\obj\Debug\net8.0\ref\BusinessLayer.dll

@@ -1,0 +1,16 @@
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.deps.json
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\bin\Release\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\bin\Release\net8.0\CommonLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\bin\Release\net8.0\CommonLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAcce.E67BD773.Up2Date
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\refint\DataAccessLayer.dll
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\DataAccessLayer.pdb
+C:\Users\fuent\Downloads\e\pichuli\proyecto-POE\CRM_Definitivo\DataAccessLayer\obj\Release\net8.0\ref\DataAccessLayer.dll
