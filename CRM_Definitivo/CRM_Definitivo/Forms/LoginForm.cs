@@ -165,7 +165,7 @@ namespace CRM_Definitivo
         {
             try
             {
-                string accountSid = "ACda51772af5ba53292479ff29856eddbe";
+                string accountSid = "#"; //Ingresar aca el SID de Twilio;
                 string authToken = "b02d4032c456f1e1c978e8a2b1a6442b";
                 TwilioClient.Init(accountSid, authToken);
 
