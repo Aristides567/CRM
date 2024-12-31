@@ -166,7 +166,7 @@ namespace CRM_Definitivo
             try
             {
                 string accountSid = "#"; //Ingresar aca el SID de Twilio;
-                string authToken = "b02d4032c456f1e1c978e8a2b1a6442b";
+                string authToken = "#"; //Ingresar aca el TOKEN de Twilio;
                 TwilioClient.Init(accountSid, authToken);
 
                 if (!phoneNumber.StartsWith("+"))
@@ -176,7 +176,7 @@ namespace CRM_Definitivo
 
                 var message = MessageResource.Create(
                     body: $"Tu código de verificación es: {code}",
-                    from: new PhoneNumber("+13023608137"),
+                    from: new PhoneNumber("#"), //Ingresar el numero de telefono de Twilio
                     to: new PhoneNumber(phoneNumber)
                 );
 
